@@ -1,7 +1,7 @@
 # Windmill
 
-OSS developer platform to build multistep automations and internal apps from
-minimal Typescript and Python scripts
+Open-source, self-hostable code-first platform for workflows, apps and AI agents,
+running on the fastest self-hostable orchestrator.
 
 <https://windmill.dev>
 
